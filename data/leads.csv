@@ -1,0 +1,13 @@
+conversation,label
+"Just browsing, not interested now",Cold
+"Can you share price details?",Warm
+"I want to buy this immediately",Hot
+"Please call me tomorrow to discuss",Warm
+"Not looking to purchase",Cold
+"What is the EMI and availability?",Warm
+"I want to book today",Hot
+"Send me brochure only",Cold
+"I am interested, what is next step?",Hot
+"Is there any discount available?",Warm
+"Stop calling me",Cold
+
